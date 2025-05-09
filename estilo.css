@@ -1,9 +1,8 @@
-/* Estilos gerais para o layout */
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
     line-height: 1.6;
-    background-color: rgb(186, 186, 239);
+    background-color:rgb(186, 186, 239);
   }
   
   nav ul {
@@ -14,4 +13,3 @@ body {
   nav ul li {
     margin: 8px 0;
   }
-  
